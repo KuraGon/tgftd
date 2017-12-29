@@ -1,0 +1,2 @@
+test :
+# EXECUTE_SAHI WorkflowLogTest.sah ON workflow USING WorkflowConf.properties

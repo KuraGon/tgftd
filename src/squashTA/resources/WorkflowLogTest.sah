@@ -1,0 +1,19 @@
+_setValue(_textbox("username"), "bouzeboudja");
+_setValue(_password("password"), "bbouzeboudja");
+_setValue(_textbox("username"), "bbouzeboudja");
+_click(_submit("Connexion"));
+_click(_submit("Bilel Bouzeboudja"));
+_click(_link("Tous les rôles ..."));
+_click(_div("modal-backdrop fade in"));
+_click(_link("23 Gestion administrative"));
+_click(_cell("TTR PARTICIPATIONS"));
+_click(_button("Retour corbeille"));
+_click(_link("Reporting"));
+_click(_link("Complétude par période"));
+_click(_bold("Bilel Bouzeboudja"));
+_click(_submit("Déconnexion"));
+
+_setValue(_password("password"), "bbouzeboudja");
+_setValue(_textbox("username"), "bbouzeboudja");
+_click(_div("application-container"));
+_click(_submit("Connexion"));
